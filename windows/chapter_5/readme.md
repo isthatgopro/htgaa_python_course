@@ -27,3 +27,4 @@ Pretty simple example but I hope you see the power of the breakpoint and how eas
 
 ## Summary
 - You should now feel comfortable debugging code with the `breakpoint()` function call and feel my disappointment if you debug with print statements lol
+
