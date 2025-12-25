@@ -35,7 +35,7 @@ As always, you can see the different commands pyenv has with `pyenv --help` but 
 
 As of writing this, the latest version is `3.14.2` which you can install with `pyenv install 3.14.2`. 
 
-After the installation is complete, you can see all the versions you've installed with `pyenv versions` and you can set a version of python with `pyenv global 3.14.2`. 
+After the installation is complete, you can see all the versions you've installed with `pyenv versions` and you can set a version of python with `pyenv global 3.14.2`. Run this command to set python as the currently active version.
 
 You can confirm this worked correctly by running `python --version` and you should see something like `Python 3.14.2` printed to the console. Now, for the record, this won't stop you from running into the "most classic bug" but hopefully if you ever do, you will quickly change the global version and get back to what you were doing.
 
