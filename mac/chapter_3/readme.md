@@ -11,7 +11,7 @@ As of writing this, my favorite IDE is Cursor. Up until recently I used an IDE c
 
 ![Cursor](../../images/cursor.png)
 
-After opening, click `Open Project` and navigate to `~/Desktop/Projects/HtgaaBootcamp/htgaa_python_course` and open it up. You should see all the folders on the left.
+After opening, click `Open Project` and navigate to `~/Desktop/Projects/HtgaaBootcamp/htgaa_python_course` and open it up. You now should see all the folders on the left in your cursor IDE.
 
 Before we go ahead and write some python code I wanted to go over a few cool features IDEs have. First, IDEs come with a built-in terminals! At the top nav you should see a `Terminal` option, click `Terminal` then `New Terminal`.
 
