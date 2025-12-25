@@ -7,7 +7,7 @@ After this course you should feel comfortable setting up coding environments, pu
 
 This repository (or repo as we call it) is split into different folders first for your operating system - windows or mac and then folders for each chapter. Each chapter has its own readme with instructions and exercises to follow. The chapters build on top of each other but feel free to go through them however you want.
 
-To get the most out this course and really any programming course in general, you should definitely run the examples and experiment. You don't learn by learning, you learn by doing.
+To get the most out of this course and really any programming course in general, you should definitely run the examples and experiment. You don't learn by learning, you learn by doing.
 
 
 ## Contents
