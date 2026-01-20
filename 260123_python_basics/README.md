@@ -1,15 +1,16 @@
-# htgaa
+# HTGAA
 
 - [Course Website](https://newhome.htgaa.org/)
 
 ## Resources
+
+- [Python Tutor](https://pythontutor.com/)
 
 Because of time constraints during this presentation we will have to end this
 small presentation here. However, some resources for people who want to dig deeper:
 
 ### Programming (in general)
 - <mark>[📝 Ethan Itovitch (TA) - HTGAA Pre Bootcamp Python Course](https://github.com/ethanitovitch/htgaa_python_course)</mark>
-
 - [Harvard - CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [freecodecamp](https://www.freecodecamp.org/)
 
